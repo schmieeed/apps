@@ -1,0 +1,4 @@
+migrations:
+  - file: ip_port_migration
+    target:
+      min_version: 1.5.0
